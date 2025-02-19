@@ -1,0 +1,127 @@
+{
+  "navigation": {
+    "logo_text": "Avinash Kariya"
+  },
+
+  "home": {
+    "hero": {
+      "greeting": "Hi, I'm",
+      "name": "Avinash Kariya",
+      "title": "Associate Software Engineer",
+      "description": "Passionate about creating efficient and scalable web applications. Experienced in modern web technologies and best practices."
+    },
+    "about": {
+      "title": "About Me",
+      "description": "I'm a passionate software engineer with a keen interest in building scalable and efficient web applications. My journey in tech started with curiosity and has evolved into a professional career where I blend creativity with technical expertise.\n\nCurrently working as an Associate Software Engineer, I specialize in full-stack development with a focus on modern technologies and best practices. I believe in writing clean, maintainable code and creating user-centric solutions.\n\nWhen I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.",
+      "skills": [
+        "React",
+        "Next.js",
+        "Django",
+        "Docker",
+        "Strapi",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Tailwind CSS",
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "image_url": "/images/profile.jpg"
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Science",
+      "institution": "The Maharaja Saiyajirao University",
+      "duration": "2021 - 2024",
+      "location": "Vadodara, Gujarat, India",
+      "description": [
+        "Completed B.E. in Computer Science with focus on software development",
+        "Relevant coursework: Data Structures, Algorithms, Database Management",
+        "Participated in various technical workshops and coding competitions"
+      ],
+      "grade": "74%"
+    },
+    {
+      "degree": "Diploma in Computer Science",
+      "institution": "Om Institute of Engineering and Technology, GTU",
+      "duration": "2018 - 2021",
+      "location": "Junagadh, Gujarat, India",
+      "description": [
+        "Completed 3-year diploma program in Computer Science",
+        "Gained strong foundation in programming and computer fundamentals",
+        "Hands-on experience with various programming languages and tools"
+      ],
+      "grade": "9.81"
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "Shaishav Secondary School",
+      "duration": "2017 - 2018",
+      "location": "Manavadar, Gujarat, India",
+      "description": [
+        "Completed 10th standard with focus on science and mathematics",
+        "Participated in various extracurricular activities",
+        "Developed strong analytical and problem-solving skills"
+      ],
+      "grade": "83%"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Associate Software Engineer",
+      "company": "Aubergine Solutions",
+      "location": "Ahmedabad, Gujarat, India",
+      "type": "Full-time",
+      "duration": "Jul 2024 - Present",
+      "description": [
+        "Leading the development of key features using React and Node.js",
+        "Collaborating with cross-functional teams to deliver high-quality software solutions",
+        "Implementing responsive designs and ensuring cross-browser compatibility",
+        "Writing clean, maintainable code following best practices and design patterns"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "AWS",
+        "Django"
+      ]
+    },
+    {
+      "position": "Software Engineer - Intern",
+      "company": "Aubergine Solutions",
+      "location": "Ahmedabad, Gujarat, India",
+      "type": "Internship",
+      "duration": "Dec 2023 - Jul 2024",
+      "description": [
+        "Developed and maintained web applications using modern JavaScript frameworks",
+        "Worked on both frontend and backend development tasks",
+        "Participated in code reviews and implemented feedback from senior developers",
+        "Assisted in the migration of legacy systems to modern technology stacks"
+      ],
+      "technologies": ["Django", "React"]
+    },
+    {
+      "position": "Software Engineer - Intern",
+      "company": "Minimal Dot",
+      "location": "Vadodara, Gujarat, India",
+      "type": "Internship",
+      "duration": "May 2023 - June 2023",
+      "description": [
+        "Gained hands-on experience with web development technologies",
+        "Assisted in building responsive web interfaces",
+        "Learned version control and collaborative development practices",
+        "Participated in daily stand-ups and team meetings"
+      ],
+      "technologies": ["Angular", "Node.js", "MySQL"]
+    }
+  ]
+}
